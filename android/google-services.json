@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010091783028",
+    "project_id": "icoaragonsocial",
+    "storage_bucket": "icoaragonsocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010091783028:android:ffb6002951bfc72f033221",
+        "android_client_info": {
+          "package_name": "com.example.icoaragonsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnI-ovZTJj-Cee_AA-U4ikpseSMpIjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
