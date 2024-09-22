@@ -39,6 +39,12 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8 # Utiliza la última versión disponible de firebase_auth
+  firebase_database: ^10.1.2
+  cloud_firestore: ^4.15.8
+  intl: ^0.17.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
